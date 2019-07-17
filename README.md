@@ -3,6 +3,9 @@
 HorizontalCalendar component created using this tutorial:
 https://rationalappdev.com/horizontal-calendar-in-react-native/
 
+![Screenshot](/screenshots/Screen Shot 2019-07-17 at 2.01.28 AM.png)
+
+
 ## Commands
 
 #### `npm start`
